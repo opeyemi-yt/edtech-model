@@ -184,6 +184,11 @@ CREATE TABLE Enrollment (
    ```
 
 ---
+##  limitation
+- Add more data points to make the database more robust in terms of analysis capacity
+- For students that are less than 10, let's have a table called parent and attach parent_id to such students details
+
+
 
 ## Contributing
 
