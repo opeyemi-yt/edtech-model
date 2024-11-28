@@ -187,6 +187,8 @@ CREATE TABLE Enrollment (
 ##  limitation
 - Add more data points to make the database more robust in terms of analysis capacity
 - For students that are less than 10, let's have a table called parent and attach parent_id to such students details
+- Update the primary key columns in each table to include the `UNSIGNED` constraint, preventing the insertion of negative values.
+- Stay tuned for part two of this project, which will explore and address additional limitations to further strengthen the database's data integrity.
 
 
 
